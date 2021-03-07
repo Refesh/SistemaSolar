@@ -13,7 +13,7 @@ Para la implementación del juego he usado Processing 3.5.4.
 
 <img src="readmeImages/SistemaSolar.png"
      alt="Menu"
-     width="60%" />
+     width="80%" />
 
 **Simulación:** El programa solo tiene una pantalla donde se observa la simulación del sistema solar en cuestión, en este caso sería nuestro sistema solar con los planetas Venus, la Tierra, Marte, Júpiter  y Saturno, opte por poner 5 para que no se sobrecargara la pantalla de información, también hay 5 satélites  2 en Júpiter , 2 en Saturno y la luna. Obviamente la simulación no pretende ser realista.
 
