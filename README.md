@@ -45,4 +45,4 @@ Para la implementación del juego he usado Processing 3.5.4.
 + **display:** Hay dos métodos display uno sin parámetros que muestra simplemente el planeta, el otro se le pasa un array de planetas y muestra estos planetas girando alrededor del planeta original con lo que estos "planetas" son satélites del planeta desde el que se llama a este método.
 
 ## GIF
-![Alt Text](SistemSolar.gif)
+![Alt Text](SistemaSolar.gif)
